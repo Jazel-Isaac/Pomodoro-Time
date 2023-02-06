@@ -1,3 +1,9 @@
+@media (max-width: 767px) {
+  .timer {
+    font-size: 24px;
+  }
+}
+
 .timer {
     font-size: 36px;
     font-weight: bold;
